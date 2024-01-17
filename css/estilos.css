@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-primary-color {
+   background-color: rgba(0, 0, 0, 0.8);
+}
+
+#logo {
+    color: rgb(255, 251, 0);
+}
+
+#logo2 {
+    color: white;
+}
+
+.navbar-nav {
+    
+}
